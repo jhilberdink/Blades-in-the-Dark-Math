@@ -28,7 +28,7 @@ The following table shows the probabilities for zero to seven dice:
 
 A plot of the action roll results:
 
-![](Resources/Action.png)
+![](Resources/action.png)
 
 At seven dice, a Critical Success becomes more likely than a Mixed Success.
 
@@ -47,4 +47,4 @@ The Resistance Roll in Blades uses the same dice pool mechanic to determine how 
 
 Resistance Roll results visualized on a stacked bar chart:
 
-![](Resources/Resist.png)
+![](Resources/resist.png)
